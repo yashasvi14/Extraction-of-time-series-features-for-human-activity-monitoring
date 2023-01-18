@@ -11,3 +11,5 @@ Following tasks were performed:
 7. Computed permutation entropy and complexity for the aforementioned data considering the accelerometer data in all three direction
 8. Generated scatter plots: permutation entropy vs complexity and colored the points according to walking and running
 9. Generated scatter plots: permutation entropy vs complexity and colored the points according to climbing up and climbing down
+
+**The datasets are attached as rar files
